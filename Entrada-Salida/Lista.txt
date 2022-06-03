@@ -1,0 +1,8 @@
+Lau Ti
+100 100
+Honey
+0 0
+Exe Quiel
+100 100
+Wal Do
+20 90
